@@ -1,0 +1,4 @@
+# WebStorm
+.idea
+# node modules
+./server/node_modules
